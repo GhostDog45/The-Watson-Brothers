@@ -24,7 +24,7 @@
 - **Band:** The Watson Brothers
 - **Release Year:** 2003
 - **Record Label:** G-Series
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz via Git LFS)
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BFront%5D.jpg" width="300" alt="Ohom Album Cover" />
