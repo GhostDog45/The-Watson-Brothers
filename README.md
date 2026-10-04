@@ -33,7 +33,7 @@
 ### 📖 About the Album
 Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the critically acclaimed debut and landmark studio album by The Watson Brothers. The album became an instant cultural touchstone in the Bangladeshi alternative music circuit. Propelled by the massive nationwide hit *"Akash"* (which soundtracked an entire generation through the GrameenPhone Djuice youth wave), *Ohom* seamlessly weaves driving post-grunge riffs, introspective songwriting, and hauntingly melodic vocals across masterpieces like *"Chaya"*, *"Rong"*, *"Amar Notun Ami"*, and the epic closing track *"...Shore Daray, Shesh Barer Moto"*.
 
-### 🎵 Tracklist & Direct One-Tap Downloads
+### 🎵 Tracklist (One-Tap Download)
 
 - [**01. Akash**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Watson%20Brothers%20-%20Ohom/01.%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Watson%20Brothers%20-%20Ohom/01.%20Akash.flac?download=true)
 - [**02. Chaya**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Watson%20Brothers%20-%20Ohom/02.%20Chaya.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Watson%20Brothers%20-%20Ohom/02.%20Chaya.flac?download=true)
