@@ -46,8 +46,7 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 - [**09. Shanti**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Watson%20Brothers%20-%20Ohom/09.%20Shanti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Watson%20Brothers%20-%20Ohom/09.%20Shanti.flac?download=true)
 - [**10. ...Shore Daray, Shesh Barer Moto**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Watson%20Brothers%20-%20Ohom/10.%20...Shore%20Daray%2C%20Shesh%20Barer%20Moto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Watson%20Brothers%20-%20Ohom/10.%20...Shore%20Daray%2C%20Shesh%20Barer%20Moto.flac?download=true)
 
-### 🖼️ Album Artwork & Packaging Scans
-*(Featured in order of physical release: Front Cover → Booklets & Insets → Disc → Back Inset → Back Cover)*
+### 🖼️ Album Artwork
 
 | | |
 | :---: | :---: |
