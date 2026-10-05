@@ -50,9 +50,9 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 
 | | |
 | :---: | :---: |
-| <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet & Lyrics (Part 1)" /><br><sub><b>2. Booklet & Lyrics (Part 1)</b></sub> |
-| <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet & Lyrics (Part 2)" /><br><sub><b>3. Booklet & Lyrics (Part 2)</b></sub> | <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BInset-Front%5D.jpg" width="300" alt="4. Inside Inset (Front)" /><br><sub><b>4. Inside Inset (Front)</b></sub> |
-| <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BInset-Back%5D.jpg" width="300" alt="6. Tray Inlay (Back Inset)" /><br><sub><b>6. Tray Inlay (Back Inset)</b></sub> |
+| <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet (Part 1)" /><br><sub><b>2. Booklet (Part 1)</b></sub> |
+| <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BInset-Front%5D.jpg" width="300" alt="4. Inset (Front)" /><br><sub><b>4. Inset (Front)</b></sub> |
+| <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BInset-Back%5D.jpg" width="300" alt="6. Back Inset" /><br><sub><b>6. Back Inset</b></sub> |
 | <img src="The%20Watson%20Brothers%20-%20Ohom/Album%20Covers/Ohom%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
 ---
